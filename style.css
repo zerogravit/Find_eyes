@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(228, 228, 228);
+}
+
+
+.project {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: #D7D8C9;
+    margin-top: -1rem;
+    
+}
+.header{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(20, 20, 20);
+    font-size: 1.5rem;
+    padding-top: 1.5rem;
+    
+}
+.it{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 0.7rem;
+    margin: 1rem;
+}
+.susy {
+    border-left: 2.3px #A4A68A solid;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    border-color:rgb(88, 88, 88)  ;
+    
+    
+
+    
+}
+
+
+
+div>img {
+    width: 8em;
+    height: 8em;
+    
+}
+.photos {
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+.photos>div {
+    margin: 1.2rem;
+    justify-content: space-around;
+    
+}
+figcaption {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.7rem;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+img{
+    border: 5px solid whitesmoke;
+}
+
+    
+
